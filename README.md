@@ -1,5 +1,5 @@
 # CNN-on-CelebA-
-Train and test Convolution neural network using Tensor flow over CelebA dataset
+Train and test Convolution neural network using Tensor flow over CelebA dataset using tensorflow framework.
 
 CelebA data available at http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
